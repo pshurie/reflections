@@ -1,0 +1,5 @@
+git log   shows all the commits
+git log --stat shows which files changed and number of inserts and deletes
+git div old_id new_id shows changes made... watch out.. latest changes on top so commit before will be below
+git init - creates a repository locally from scratch
+git status - shows what files changed since last commit
